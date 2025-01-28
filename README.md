@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Bienvenido a mi GitHub
 
-Soy **Pol Miret Vidal**, un desarrollador fullstack en progreso 🚀, actualmente estudiando **DAW**.
+Soy **Pol Miret**, un desarrollador fullstack en progreso 🚀, actualmente estudiando **DAW**.
 Me apasiona el **desarrollo fullstack** y me encanta construir proyectos que sean **prácticos y divertidos**.
 
 🖥️ Aquí encontrarás proyectos que reflejan mi viaje como desarrollador.
